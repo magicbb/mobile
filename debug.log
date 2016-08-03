@@ -1,0 +1,26 @@
+[0803/113655:ERROR:gpu_info_collector_win.cc(147)] Could not read gaming score from assessment results.
+[0803/113655:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0803/113656:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0803/113656:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0803/113656:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0803/113656:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0803/113656:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0803/113656:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0803/113656:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0803/113656:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0803/113656:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
